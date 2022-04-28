@@ -18,7 +18,11 @@ node golang_engine.js URL proxy.txt 1200 20 GET 64
 
 64 = request per ip
 
-Note: script using 2capcha api as below, you can change it :)
+Note: 
+
+1- script using 2capcha api as below, you can change it
+
+2- flooder "optls" coded in C# and compiled. it's clean and you can replace it with and flooder support cookie.
 
             provider: {
                 id:'2captcha',
