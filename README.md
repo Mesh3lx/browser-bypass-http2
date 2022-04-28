@@ -6,6 +6,8 @@
 
 3- npm install puppeteer-extra puppeteer-extra-plugin-recaptcha puppeteer-extra-plugin-stealth
 
+4- chmod 777 *
+
 # How to use ?
 
 node golang_engine.js URL proxy.txt 1200 20 GET 64
